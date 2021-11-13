@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "347104572147",
+    "project_id": "proyectomovileso2021",
+    "storage_bucket": "proyectomovileso2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347104572147:android:d15cc24a77b8615428fd86",
+        "android_client_info": {
+          "package_name": "com.example.push_notifs_o2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347104572147-9cmeq3vkpgm2mv8nsntnuf0b1digpo9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.push_notifs_o2021",
+            "certificate_hash": "f568ac32ab676921d795386f2e87625af04c8117"
+          }
+        },
+        {
+          "client_id": "347104572147-etatogu3dme1vmdn3l5biqrdkn1udj7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgoGqD1zONurL6JhBRiOaN-rOM7UeSfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347104572147-etatogu3dme1vmdn3l5biqrdkn1udj7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347104572147:android:8e39265d49e1f4f828fd86",
+        "android_client_info": {
+          "package_name": "com.iteso.proyecto_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347104572147-5j5ook5kkmsjg5ofc7ppm8am97g9jhps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iteso.proyecto_final",
+            "certificate_hash": "9fc874e5ce7d18337fb143b3870c1a9c3c6c727e"
+          }
+        },
+        {
+          "client_id": "347104572147-vciqsbhs6hh0sim1848pvjv2hbpns93u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iteso.proyecto_final",
+            "certificate_hash": "f568ac32ab676921d795386f2e87625af04c8117"
+          }
+        },
+        {
+          "client_id": "347104572147-etatogu3dme1vmdn3l5biqrdkn1udj7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgoGqD1zONurL6JhBRiOaN-rOM7UeSfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347104572147-etatogu3dme1vmdn3l5biqrdkn1udj7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
